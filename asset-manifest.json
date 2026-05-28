@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/os/static/css/main.a1b675f3.css",
+    "main.js": "/os/static/js/main.1b6cd34c.js",
+    "static/js/787.749b4a44.chunk.js": "/os/static/js/787.749b4a44.chunk.js",
+    "static/media/house_master.mp3": "/os/static/media/house_master.c7658602090fa4de7901.mp3",
+    "static/media/edge_unmastered.mp3": "/os/static/media/edge_unmastered.5fda28a397a77f0cd67d.mp3",
+    "static/media/break.mp3": "/os/static/media/break.ca994a82925ac512580d.mp3",
+    "static/media/dnb_drop_drums.mp3": "/os/static/media/dnb_drop_drums.24751dc8ad05058a701a.mp3",
+    "static/media/MSSansSerif.ttf": "/os/static/media/MSSansSerif.aa14e7b110864a3c2e08.ttf",
+    "static/media/houseProject.png": "/os/static/media/houseProject.fdb8b40ccf0bed8a6554.png",
+    "static/media/currentme.jpg": "/os/static/media/currentme.5c2f14ebc8569b34ba73.jpg",
+    "static/media/dnbDrumsProject.png": "/os/static/media/dnbDrumsProject.c9dace015fac3b0a06af.png",
+    "static/media/landscape.jpg": "/os/static/media/landscape.697f41a2a51211cf4bcb.jpg",
+    "static/media/ee.jpg": "/os/static/media/ee.7656e3a317181c8a39b1.jpg",
+    "static/media/Terminal.ttf": "/os/static/media/Terminal.6a1b7290048681921b2c.ttf",
+    "static/media/neverGiveUp.jpg": "/os/static/media/neverGiveUp.c9ee4e48677de77065a9.jpg",
+    "static/media/Millennium.ttf": "/os/static/media/Millennium.e16d74a8e8e0567ce30e.ttf",
+    "static/media/Millennium-Bold.ttf": "/os/static/media/Millennium-Bold.cd5e3be832ebd008c852.ttf",
+    "index.html": "/os/index.html",
+    "main.a1b675f3.css.map": "/os/static/css/main.a1b675f3.css.map",
+    "main.1b6cd34c.js.map": "/os/static/js/main.1b6cd34c.js.map",
+    "787.749b4a44.chunk.js.map": "/os/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1b675f3.css",
+    "static/js/main.1b6cd34c.js"
+  ]
+}
