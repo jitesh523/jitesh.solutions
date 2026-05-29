@@ -8,7 +8,7 @@ A fully interactive desktop environment that doubles as a personal portfolio for
 
 ## Preview
 
-![Portfolio desktop showing My Showcase window on a teal Win98-style desktop](static/media/landscape.697f41a2a51211cf4bcb.jpg)
+
 
 ---
 
